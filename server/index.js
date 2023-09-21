@@ -23,10 +23,7 @@ io.on('connection', (socket) => {
         io.to(textData.roomId).emit('messageRecieved',textData); 
     })
 
-    socket.on("disconnect", ()=>{
-        socket.emit('user')
-    })
-    
+  
 
     
 });
