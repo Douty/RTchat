@@ -2,8 +2,8 @@
 
 Technology used
 
-React 
-React Router-DOM
-Tailwindcss
-Node JS 
+React, 
+React Router-DOM,
+Tailwindcss,
+Node JS,
 Socket.IO
